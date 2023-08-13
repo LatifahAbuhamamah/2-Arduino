@@ -1,5 +1,5 @@
 # Connecting Two Arduino UNOs using I2C Communication
-For this task, I have set up a communication system between two Arduino boards using the I2C protocol. One board is functioning as the transmitter, while the other as the receiver. The transmitter reads the status of a digital button connected to pin A0 and transmits its state (whether it is pressed or not) to the receiver. The receiver then controls an LED connected to pin 11 based on the received button status.
+In the realm of IoT, devices communicate and share data to create intelligent systems. I set up communication between two Arduino boards using the I2C protocol. One board is the transmitter and the other is the receiver. The transmitter reads the status of a digital button connected to pin A0 and transmits its state to the receiver. The receiver controls an LED connected to pin 11 based on the received button status.
 
 ## Step-by-Step to connect two Arduino using I2C:
 
